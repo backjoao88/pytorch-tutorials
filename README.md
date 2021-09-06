@@ -8,4 +8,5 @@ Universal Approximation Theorem - How a Neural Network works under the hood - ht
 Intuitively Understanding Convolutions for Deep Learning - https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1
 
 Convolutional Operation from Scratch - https://sgugger.github.io/convolution-in-depth.html
+
 Visual Understanding of Deep Learning - https://www.youtube.com/watch?v=Oqm9vsf_hvU
