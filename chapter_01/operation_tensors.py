@@ -39,10 +39,3 @@ y.backward()
 print('dy/dx = ', x.grad)
 print('dy/dw = ', w.grad)
 print('dy/db = ', b.grad)
-
-
-
-
-
-
-

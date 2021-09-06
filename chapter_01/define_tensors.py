@@ -47,12 +47,3 @@ print(tensor1.shape)
 print(tensor2.shape)
 print(tensor3.shape)
 print(tensor4.shape)
-
-
-
-
-
-
-
-
-
